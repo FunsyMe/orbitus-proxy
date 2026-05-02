@@ -1,6 +1,6 @@
 <div align="center">
 
-# **<img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height=28 /> <a href="https://github.com/FunsyMe/">FunsyMe</a><a href="https://github.com/FunsyMe/orbitus-proxy">/orbitus-proxy</a> <img src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" height=28 />**
+# **<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" height=28 /> <a href="https://github.com/FunsyMe/">FunsyMe</a><a href="https://github.com/FunsyMe/orbitus-proxy">/orbitus-proxy</a> <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" height=28 />**
 </div>
 
 > [!TIP]
