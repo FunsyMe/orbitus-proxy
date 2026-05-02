@@ -1,0 +1,1 @@
+pyinstaller --noconsole --onefile --icon=orbitus-proxy.ico orbitus-proxy.py
